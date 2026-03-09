@@ -1,23 +1,20 @@
-# Creating a Subscription and Resource Group in Microsoft Azure and a Storage Account inside the Resource Group <p align="center">
+# Creating Users in Microsoft Azure's Entra ID  <p align="center">
 
-<img src="https://download.logo.wine/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.png" alt="Azure logo"/>
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/14806b36-bc52-44a8-a825-615241d884e0" />
 </p>
 
-<h1>Creating a Subscription, Resource Group and Storage Account in a Virtual Environment (Azure)</h1>
-This tutorial outlines the process of creating a Subscription and Resource Group in Microsoft Azure and a Storage Account inside the Resource Group created in Microsoft Azure.<br />
+<h1>Creating User's in Our Lab Environment (Azure)</h1>
+This tutorial outlines the process of creating users in Entra ID.<br />
 
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machine/Computer)
-- Microsoft Remote Desktop
-- Virtual Platform
+- Microsoft Azure Entra ID
 
 
 <h2>Operating Systems Used </h2>
 
-- Windows Server 2022
-- Windows 10 (21H2)
+- Windows 11
 
 
 <h2>Installation Steps</h2>
